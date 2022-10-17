@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨I'm Haume<br>☕UI designer & Front-end developer<br>🪄 I’m currently working on CoolStaff<br>🪴 I’m learning Vue.js
+✨I'm Haume<br>☕UI designer & Front-end developer<br>🪄 I’m currently working on Spica Website<br>
 
 
 ## 🌐 Socials:
