@@ -2,7 +2,7 @@
 🔭 I’m currently working on Svelte<br>✨Spica Team<br>🪄CoolStaff Project<br>☕Front-end Developer & Designer
 
 
-## 🌐 Socials:
+## 🌐 Get in touch:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/emineroban) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/hCBrqtuZ89) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Haume0) 
 
 # 💻 Tech Stack:
@@ -12,13 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Haume&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haume&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### 🗒️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Haume&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## ☕ Buy me a Coffee
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Haume) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
