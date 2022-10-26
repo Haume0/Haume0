@@ -2,7 +2,7 @@
 🔭 I’m currently working on Svelte<br>✨Spica Team<br>🪄CoolStaff Project<br>☕Front-end Developer & Designer
 
 
-## 🌐 Get in touch:
+## 🌐 Get in Touch:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/emineroban) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/hCBrqtuZ89) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Haume0) 
 
 # 💻 Tech Stack:
