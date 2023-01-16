@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Svelte<br>✨Spica Team<br>🪄CoolStaff Project<br>☕Front-end Developer & Designer
+🔭 I’m currently working on Svelte<br>✨Spica Team<br>☕Front-end Developer & Designer
 
 
 ## 🌐 Get in Touch:
