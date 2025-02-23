@@ -1,9 +1,10 @@
 <br clear="both">
 
 <h2 align="center">Hi, World!</h2>
-<a href="https://haume.me" target="_blank">
+<a href="https://haume.me" target="_blank" align="center">
   Visit my site. haume.me
 </a>
+
 ###
 
 <div align="center">
