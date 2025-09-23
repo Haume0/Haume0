@@ -13,7 +13,7 @@
 
 ```yaml
 name: Emin Erçoban
-username: haume0
+username: haume
 location: Turkey 🇹🇷
 role: Full-Stack Developer & UI/UX Designer
 website: https://haume.me
