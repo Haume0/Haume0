@@ -17,10 +17,8 @@ username: haume0
 location: Turkey 🇹🇷
 role: Full-Stack Developer & UI/UX Designer
 website: https://haume.me
-company: Co-Founder of Cubidron
 currently_learning: Advanced Go & System Design
-fun_fact: Interstellar web developer who makes dreams come true ✨
-experience: 3+ years in design and software development
+experience: 4+ years in design and software development
 ```
 
 <br>
