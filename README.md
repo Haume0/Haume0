@@ -15,7 +15,7 @@
 name: Emin Erçoban
 username: haume
 location: Turkey 🇹🇷
-role: Full-Stack Developer & UI/UX Designer
+role: Full-Stack Developer & Designer
 website: https://haume.me
 currently_learning: Advanced Go & System Design
 experience: 4+ years in design and software development
