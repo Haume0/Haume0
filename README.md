@@ -34,25 +34,6 @@ experience: 5+ years in design and software development
 
 </div>
 
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haume0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-</div>
-
-<br>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  [![Axo API](https://github-readme-stats.vercel.app/api/pin/?username=haume0&repo=axo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9)](https://github.com/haume0/axo)
-  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=haume0&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9)](https://github.com/haume0/portfolio)
-  
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
