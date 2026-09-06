@@ -22,18 +22,6 @@ experience: 5+ years in design and software development
 
 <br>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss,figma,vscode" alt="Frontend Skills" />
-
-### Backend & Tools
-<img src="https://skillicons.dev/icons?i=go,nodejs,mongodb,postgres,docker,vercel" alt="Backend & Tools" />
-
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
