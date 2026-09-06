@@ -55,7 +55,7 @@ experience: 5+ years in design and software development
 
 <div align="center">
   
-  **💜 Thanks for visiting! Let's work together and make dreams come true 🚀**
+  **💜 Thanks for visiting! Let's create imaginative ideas together. 🚀**
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=haume0&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
   
